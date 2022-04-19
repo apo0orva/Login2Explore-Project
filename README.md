@@ -11,7 +11,10 @@
 
 - External javascript library named [jpdb-commons.js](https://login2explore.com/jpdb/resources/js/0.0.3/jpdb-commons.js) made by [**Mr. Hemant Kumar Dugar**](https://www.linkedin.com/in/hemantkumardugar/) is used to create easy request and do _ajax_ calls for programmers to focus mainly on their page logic.
 
-- 
+- Asynchronous JavaScript And XML (_Ajax_)
+    1. A browser built-in XMLHttpRequest object.
+    2. Can modify webpage content by accessing database without refreshing page.
+    3. Not a programming language.
 
 ## Reasons of using JsonPowerDB (JPDB): -
 
