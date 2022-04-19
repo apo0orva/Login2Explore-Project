@@ -1,9 +1,9 @@
 # Login2Explore-Project
 
 This is simple HTML Form (Vertical layout) that take _**three**_ inputs: -
-**_1. Employee ID
+1. Employee ID
 2. Employee Name
-3. Employee Email-id_**
+3. Employee Email-id
 
 All three inputs are check whether filled or not and based on this, form is stored to JsonPowerDB (**SAMPLE** Database & **EMP-REL** Relation).
 
