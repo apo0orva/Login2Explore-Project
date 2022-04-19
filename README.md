@@ -34,3 +34,13 @@
 ```
 version-2
 ```
+
+## Example of use
+
+1. Run `index.html` code through NetBeans.
+2. The webpage will appear as shown below
+    
+    <img width="1165" alt="Screenshot 2022-04-19 at 22 18 33" src="https://user-images.githubusercontent.com/67102493/164056162-db98d7a0-07a1-47c5-935e-952bf975259e.png">
+
+
+3. 
