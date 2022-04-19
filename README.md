@@ -44,7 +44,7 @@ version-2
 
 3. Entering all the fields are neccessary!
 4. Below is example of all fields filled.
-<img width="1165" alt="Screenshot 2022-04-19 at 22 17 59" src="https://user-images.githubusercontent.com/67102493/164056463-eb7861d9-92ae-4ca4-8da2-a2b8bc115cca.png">
+    <img width="1165" alt="Screenshot 2022-04-19 at 22 17 59" src="https://user-images.githubusercontent.com/67102493/164056463-eb7861d9-92ae-4ca4-8da2-a2b8bc115cca.png">
 
 5.
 6. 
