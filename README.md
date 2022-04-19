@@ -27,4 +27,5 @@
 - Time Series DB fuctionality
 - Key-value DB
 - GeoSpatial DB
+- It helps developers in faster coding, in-turn reduces development cost.
 
