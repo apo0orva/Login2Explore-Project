@@ -9,10 +9,10 @@ All three inputs are check whether filled or not and based on this, form is stor
 
 ##Reasons of using JsonPowerDB (JPDB): -
 
--High Performance
--Lightweight
--Real-time
--Ready to use API for Json document DB
--Time Series DB fuctionality
--Key-value DB
-GeoSpatial DB
+- High Performance
+- Lightweight
+- Real-time
+- Ready to use API for Json document DB
+- Time Series DB fuctionality
+- Key-value DB
+- GeoSpatial DB
