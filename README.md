@@ -47,5 +47,8 @@ version-2
 
     <img width="1165" alt="Screenshot 2022-04-19 at 22 17 59" src="https://user-images.githubusercontent.com/67102493/164056463-eb7861d9-92ae-4ca4-8da2-a2b8bc115cca.png">
 
-5.
-6. 
+5. Json String is shown as alert.
+    
+    <img width="1165" alt="Screenshot 2022-04-19 at 22 18 16" src="https://user-images.githubusercontent.com/67102493/164056853-8f2977f2-2a3d-4e67-98f4-0ace0c33a4aa.png">
+
+
