@@ -16,6 +16,8 @@
     2. Can modify webpage content by accessing database without refreshing page.
     3. Not a programming language.
 
+- When all three inputs are filled by user in form, the javascript creates a Json String which calls an API [http://api.login2explore.com:5577](http://api.login2explore.com:5577) using Index Manipulation Language (IML). There are Index Retrieval Language (IRL) & Index Defination Language (IDL) and their syntax can be accessed through [here](https://login2explore.com/jpdb/docs.html).
+
 ## Reasons of using JsonPowerDB (JPDB): -
 
 - High Performance
