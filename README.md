@@ -59,5 +59,5 @@ version-2
 8. Hit **OK**, and the form will reset for next entry.
 9. Entry was added in JPDB and it can be viewed from [http://api.login2explore.com:5577](http://api.login2explore.com:5577) => Visualize => JsonDB => Select Database `SAMPLE` & Relation `EMP-REL`.
 
-Notice last entry highlighted in red box.
+    _**Notice last entry highlighted in red box.**_
     <img width="1199" alt="Screenshot 2022-04-19 at 22 19 37" src="https://user-images.githubusercontent.com/67102493/164058924-f5ec126e-1ce7-44c0-a58a-ec35b474b2da.png">
