@@ -18,7 +18,7 @@
 
 - When all three inputs are filled by user in form, the javascript creates a Json String which calls an API [http://api.login2explore.com:5577](http://api.login2explore.com:5577) using Index Manipulation Language (IML). There are Index Retrieval Language (IRL) & Index Defination Language (IDL) and their syntax can be accessed through [here](https://login2explore.com/jpdb/docs.html).
 
-## Reasons of using JsonPowerDB (JPDB): -
+## Benefits of using JsonPowerDB (JPDB): -
 
 - High Performance
 - Lightweight
@@ -29,3 +29,8 @@
 - GeoSpatial DB
 - It helps developers in faster coding, in-turn reduces development cost.
 
+## Release History
+
+```
+version-2
+```
