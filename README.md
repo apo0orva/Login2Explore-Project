@@ -47,8 +47,12 @@ version-2
 
     <img width="1165" alt="Screenshot 2022-04-19 at 22 17 59" src="https://user-images.githubusercontent.com/67102493/164056463-eb7861d9-92ae-4ca4-8da2-a2b8bc115cca.png">
 
-5. Json String is shown as alert.
+5. `Json String` is shown as alert.
     
     <img width="1165" alt="Screenshot 2022-04-19 at 22 18 16" src="https://user-images.githubusercontent.com/67102493/164056853-8f2977f2-2a3d-4e67-98f4-0ace0c33a4aa.png">
 
+6. Click **OK** to submit data.
+7. After **OK**, webpage shows entry through _Alert box_ as shown below.
+    
+    <img width="1165" alt="Screenshot 2022-04-19 at 22 18 23" src="https://user-images.githubusercontent.com/67102493/164057841-e05784ee-69c6-4c7c-b96e-fcf0b50c4c5b.png">
 
