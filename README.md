@@ -1,11 +1,13 @@
 # Login2Explore-Project
 
-This is simple HTML Form that take _**three**_ inputs: -
-1. Employee ID
+This is simple HTML Form (Vertical layout) that take _**three**_ inputs: -
+**_1. Employee ID
 2. Employee Name
-3. Employee Email-id
+3. Employee Email-id_**
 
 All three inputs are check whether filled or not and based on this, form is stored to JsonPowerDB (**SAMPLE** Database & **EMP-REL** Relation).
+
+## 
 
 ## Reasons of using JsonPowerDB (JPDB): -
 
@@ -16,3 +18,4 @@ All three inputs are check whether filled or not and based on this, form is stor
 - Time Series DB fuctionality
 - Key-value DB
 - GeoSpatial DB
+
