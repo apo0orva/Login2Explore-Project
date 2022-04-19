@@ -9,7 +9,9 @@
 
 - All three inputs are check whether filled or not and based on this, form is stored to JsonPowerDB (**SAMPLE** Database & **EMP-REL** Relation).
 
-- External javascript library named jpdb-commons.js made by Mr. Hemant Kumar Dugar is used to create easy request and do ajax calls for programmers to focus mainly on their page logic.
+- External javascript library named [jpdb-commons.js](https://login2explore.com/jpdb/resources/js/0.0.3/jpdb-commons.js) made by **Mr. Hemant Kumar Dugar** is used to create easy request and do _ajax_ calls for programmers to focus mainly on their page logic.
+
+- 
 
 ## Reasons of using JsonPowerDB (JPDB): -
 
